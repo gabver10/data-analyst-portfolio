@@ -1,22 +1,23 @@
 # Data Analyst Portfolio
 
-Welcome to my data analyst portfolio repository. This collection showcases various data analysis projects demonstrating my skills in data cleaning, visualization, statistical analysis, and insights generation.
-
 ## Projects
 
 ### [London Property Market Analysis](./London%20Property%20Market%20Analysis)
-Analysis of London's real estate market for 2024 using official GOV.UK property transaction data. Examines price distributions, property types, and borough comparisons with statistical testing.
 
-## Skills Demonstrated
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Statistical testing and hypothesis validation
-- Data visualization
-- Insight generation and reporting
+Analysis of London's property market using SQL and data visualization techniques.
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- SQL
-- Statistical Analysis
-- Data Visualization
+- Analyzed property price trends across different London boroughs
+- Created visualizations to highlight market patterns and anomalies
+- Performed data cleaning and transformation to ensure accuracy
+
+**Tools Used:** SQL, Python, Pandas, Matplotlib
+
+### [London Airbnb Market Analysis](./airbnb-london-analysis)
+
+Comprehensive analysis of London's Airbnb market using SQL and Python visualization.
+
+- Analyzed 92,159 properties and 1.9 million reviews across 33 London boroughs
+- Created 10 different SQL analyses examining pricing, ratings, neighborhood performance, and seasonal trends
+- Developed visualizations for property types, superhost performance, review sentiment, and availability patterns
+
+**Tools Used:** PostgreSQL, Python (pandas, matplotlib, seaborn), Complex SQL queries
