@@ -12,7 +12,7 @@ Analysis of London's property market using SQL and data visualization techniques
 
 **Tools Used:** SQL, Python, Pandas, Matplotlib
 
-### [London Airbnb Market Analysis](./airbnb-london-analysis)
+### [London Airbnb Market Analysis](./Airbnb%20London%20Analysis)
 
 Comprehensive analysis of London's Airbnb market using SQL and Python visualization.
 
