@@ -1,0 +1,11 @@
+neighbourhood,num_listings,avg_rating,avg_price,rating_tier
+Richmond upon Thames,689,4.81,169.09,Top 5
+Wandsworth,2270,4.78,184.46,Top 5
+Bromley,458,4.77,112.7,Top 5
+Kingston upon Thames,350,4.77,127.31,Top 5
+Merton,738,4.76,136.64,Top 5
+Camden,3503,4.63,217.47,Bottom 5
+Westminster,6296,4.62,293.69,Bottom 5
+Havering,307,4.6,111.16,Bottom 5
+Barking and Dagenham,394,4.58,110.32,Bottom 5
+City of London,373,4.54,227.98,Bottom 5
