@@ -1,0 +1,409 @@
+HospitalCode,LatestRating,ProviderRegion,ProviderNHSRegion,RatingDate
+APGD,Requires improvement,West Midlands,Midlands,2019-05-24
+A7RH,Requires improvement,North West,North West,2019-06-26
+A00L,Good,London,London,2019-04-09
+APPT,Requires improvement,East Midlands,Midlands,2015-10-02
+C019,Good,East of England,East of England,2017-08-03
+C019,Good,East of England,East of England,2019-05-15
+C019,Outstanding,East of England,East of England,2019-05-15
+C019,Good,East of England,East of England,2017-08-03
+C019,Outstanding,East of England,East of England,2019-05-15
+C2GN,Good,Yorkshire and The Humber,North East and Yorkshire,2019-11-12
+C2GN,Good,Yorkshire and The Humber,North East and Yorkshire,2018-02-15
+C2GN,Good,Yorkshire and The Humber,North East and Yorkshire,2017-02-14
+C2GN,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2019-11-12
+C2GN,Good,Yorkshire and The Humber,North East and Yorkshire,2019-11-12
+C2GN,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2018-02-15
+C2GN,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2018-02-15
+C2GN,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2018-02-15
+AE4H,Good,South East,South East,2022-07-10
+AE4H,Good,South East,South East,2022-07-10
+AE4H,Good,South East,South East,2022-07-10
+AE4H,Requires improvement,South East,South East,2022-06-22
+AE4H,Good,South East,South East,2022-07-10
+A0EE,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2017-04-26
+A0EE,Good,Yorkshire and The Humber,North East and Yorkshire,2017-04-26
+A0EE,Good,Yorkshire and The Humber,North East and Yorkshire,2017-04-26
+C38N,Good,London,London,2022-04-02
+C38N,Requires improvement,London,London,2022-04-02
+C38N,Requires improvement,London,London,2022-04-02
+C38N,Requires improvement,London,London,2022-04-02
+AE1R,Outstanding,South West,South West,2017-03-28
+AE1R,Good,South West,South West,2022-09-02
+AE1R,Good,South West,South West,2017-03-28
+AE1R,Good,South West,South West,2017-03-28
+AE1R,Good,South West,South West,2017-03-28
+AE1R,Requires improvement,South West,South West,2022-09-02
+AE1R,Good,South West,South West,2022-09-02
+AELQ,Requires improvement,London,London,2017-09-06
+AELQ,Good,London,London,2022-10-21
+AELQ,Good,London,London,2022-06-23
+AELQ,Good,London,London,2023-04-12
+AELQ,Good,London,London,2017-09-06
+AWFD,Good,North West,North West,2017-10-08
+AWFD,Good,North West,North West,2017-08-21
+AWFD,Good,North West,North West,2017-08-25
+AWFD,Good,North West,North West,2017-10-08
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Good,North West,North West,2019-03-19
+R0A,Outstanding,North West,North West,2019-03-19
+R1A,Requires improvement,West Midlands,Midlands,2024-01-19
+R1A,Good,West Midlands,Midlands,2020-01-21
+R1A,Good,West Midlands,Midlands,2020-01-21
+R1A,Good,West Midlands,Midlands,2018-01-06
+R1A,Requires improvement,West Midlands,Midlands,2024-01-19
+R1A,Good,West Midlands,Midlands,2020-01-21
+R1A,Good,West Midlands,Midlands,2020-01-21
+R1A,Requires improvement,West Midlands,Midlands,2024-01-19
+R1A,Good,West Midlands,Midlands,2020-01-21
+R1A,Outstanding,West Midlands,Midlands,2018-01-06
+R1A,Requires improvement,West Midlands,Midlands,2024-01-19
+R1A,Requires improvement,West Midlands,Midlands,2024-01-19
+R1A,Outstanding,West Midlands,Midlands,2020-01-21
+R1A,Good,West Midlands,Midlands,2018-01-06
+R1A,Good,West Midlands,Midlands,2015-06-18
+R1L,Inadequate,East of England,East of England,2023-12-07
+R1L,Requires improvement,East of England,East of England,2022-07-29
+R1L,Outstanding,East of England,East of England,2019-09-10
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Requires improvement,East of England,East of England,2023-12-07
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Good,East of England,East of England,2018-07-26
+R1L,Good,East of England,East of England,2019-09-10
+R1L,Good,East of England,East of England,2023-12-07
+R1L,Requires improvement,East of England,East of England,2023-12-07
+R1L,Good,East of England,East of England,2023-12-07
+R1L,Requires improvement,East of England,East of England,2023-12-07
+R1L,Requires improvement,East of England,East of England,2023-12-07
+RA9,Outstanding,South West,South West,2016-07-06
+RA9,Requires improvement,South West,South West,2018-05-17
+RA9,Good,South West,South West,2020-02-07
+RA9,Outstanding,South West,South West,2016-07-06
+RA9,Good,South West,South West,2018-05-17
+RA9,Good,South West,South West,2016-07-06
+RA9,Requires improvement,South West,South West,2023-03-11
+RA9,Good,South West,South West,2016-07-06
+RAT,Good,London,London,2022-08-26
+RAT,Outstanding,London,London,2017-11-14
+RAT,Good,London,London,2018-09-01
+RAT,Good,London,London,2016-09-27
+RAT,Good,London,London,2018-09-01
+RAT,Good,London,London,2018-09-01
+RAT,Good,London,London,2019-06-09
+RAT,Requires improvement,London,London,2019-06-09
+RAT,Good,London,London,2016-09-27
+RAT,Good,London,London,2019-06-09
+RAT,Good,London,London,2016-09-27
+RAT,Good,London,London,2022-08-26
+RAT,Good,London,London,2022-08-26
+RAT,Requires improvement,London,London,2019-06-09
+RAT,Good,London,London,2017-03-11
+RAT,Good,London,London,2019-06-09
+C50C,Requires improvement,South West,South West,2022-07-22
+C50C,Good,South West,South West,2022-07-22
+C50C,Good,South West,South West,2019-02-07
+C50C,Good,South West,South West,2019-02-07
+C50C,Good,South West,South West,2019-02-07
+C50C,Good,South West,South West,2018-02-02
+C50C,Good,South West,South West,2018-02-02
+C50C,Good,South West,South West,2022-05-27
+C50C,Requires improvement,South West,South West,2022-07-22
+C50C,Good,South West,South West,2018-02-02
+C50C,Good,South West,South West,2018-02-02
+C50C,Outstanding,South West,South West,2018-02-02
+C50C,Good,South West,South West,2018-02-02
+C50C,Requires improvement,South West,South West,2022-07-22
+C50C,Requires improvement,South West,South West,2022-07-22
+C50C,Outstanding,South West,South West,2019-02-07
+RLQ,Good,West Midlands,Midlands,2016-01-20
+RLQ,Good,West Midlands,Midlands,2020-03-18
+RLQ,Requires improvement,West Midlands,Midlands,2020-03-18
+RLQ,Good,West Midlands,Midlands,2020-03-18
+RLQ,Good,West Midlands,Midlands,2016-01-20
+RLQ,Requires improvement,West Midlands,Midlands,2020-03-18
+RM3,Good,North West,North West,2018-08-24
+RM3,Good,North West,North West,2015-03-27
+RM3,Outstanding,North West,North West,2015-03-27
+RM3,Requires improvement,North West,North West,2022-12-22
+RP1,Insufficient evidence to rate,East Midlands,Midlands,2023-11-10
+RP1,Outstanding,East Midlands,Midlands,2017-03-28
+RP1,Outstanding,East Midlands,Midlands,2017-03-28
+RP1,Good,East Midlands,Midlands,2017-03-28
+RP1,Outstanding,East Midlands,Midlands,2018-08-16
+RP1,Good,East Midlands,Midlands,2018-08-16
+RP1,Good,East Midlands,Midlands,2017-03-28
+RP1,Good,East Midlands,Midlands,2019-12-17
+RP1,Good,East Midlands,Midlands,2018-08-16
+RP1,Outstanding,East Midlands,Midlands,2018-08-16
+RP1,Outstanding,East Midlands,Midlands,2019-12-17
+RP1,Good,East Midlands,Midlands,2019-12-17
+RP1,Good,East Midlands,Midlands,2019-12-17
+RP1,Outstanding,East Midlands,Midlands,2019-12-17
+RP1,Good,East Midlands,Midlands,2017-03-28
+RP1,Outstanding,East Midlands,Midlands,2015-04-09
+RP1,Good,East Midlands,Midlands,2017-03-28
+RP1,Good,East Midlands,Midlands,2015-08-26
+RPY,Good,London,London,2018-09-18
+RPY,Requires improvement,London,London,2017-01-19
+RPY,Good,London,London,2018-09-18
+RPY,Outstanding,London,London,2020-01-16
+RQX,Good,London,London,2017-05-26
+RQX,Good,London,London,2017-05-26
+RQX,Good,London,London,2018-10-08
+RRE,Inadequate,West Midlands,Midlands,2023-05-19
+RRE,Good,West Midlands,Midlands,2019-05-07
+RRE,Good,West Midlands,Midlands,2019-05-07
+RRE,Good,West Midlands,Midlands,2019-05-07
+RRE,Good,West Midlands,Midlands,2016-12-07
+RRE,Good,West Midlands,Midlands,2020-01-27
+RRE,Good,West Midlands,Midlands,2016-12-07
+RRE,Outstanding,West Midlands,Midlands,2016-12-07
+RRE,Good,West Midlands,Midlands,2016-12-07
+RRE,Good,West Midlands,Midlands,2016-12-07
+RRE,Good,West Midlands,Midlands,2019-05-07
+RRE,Good,West Midlands,Midlands,2019-05-07
+RRE,Requires improvement,West Midlands,Midlands,2019-05-07
+RRE,Good,West Midlands,Midlands,2024-01-26
+RRE,Good,West Midlands,Midlands,2019-05-07
+C50G,Requires improvement,East of England,East of England,2024-06-09
+C50G,Requires improvement,East of England,East of England,2024-12-19
+C50G,Requires improvement,East of England,East of England,2025-02-20
+C50G,Good,East of England,East of England,2022-03-31
+C50G,Good,East of England,East of England,2018-06-21
+C50G,Good,East of England,East of England,2019-05-09
+C50G,Good,East of England,East of England,2018-06-21
+C50G,Good,East of England,East of England,2018-06-21
+C50G,Good,East of England,East of England,2019-05-09
+C50G,Good,East of England,East of England,2015-10-13
+C50G,Good,East of England,East of England,2018-06-21
+C50G,Good,East of England,East of England,2015-10-13
+C50G,Good,East of England,East of England,2019-05-09
+C50G,Good,East of England,East of England,2019-05-09
+C50G,Good,East of England,East of England,2019-05-09
+C50G,Requires improvement,East of England,East of England,2018-06-21
+C50G,Good,East of England,East of England,2018-06-21
+RT5,Requires improvement,East Midlands,Midlands,2024-05-30
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Requires improvement,East Midlands,Midlands,2017-08-02
+RT5,Good,East Midlands,Midlands,2024-05-30
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Requires improvement,East Midlands,Midlands,2018-04-30
+RT5,Good,East Midlands,Midlands,2019-02-27
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Requires improvement,East Midlands,Midlands,2021-10-29
+RT5,Requires improvement,East Midlands,Midlands,2018-04-30
+RT5,Requires improvement,East Midlands,Midlands,2021-10-29
+RT5,Requires improvement,East Midlands,Midlands,2019-02-27
+RT5,Good,East Midlands,Midlands,2017-08-02
+RT5,Requires improvement,East Midlands,Midlands,2021-10-29
+RV5,Good,London,London,2021-08-20
+RV5,Good,London,London,2016-08-01
+RV5,Outstanding,London,London,2016-08-01
+RV5,Requires improvement,London,London,2021-08-20
+RV5,Good,London,London,2018-10-23
+RV5,Good,London,London,2018-10-23
+RV5,Requires improvement,London,London,2023-04-08
+RV5,Good,London,London,2018-10-23
+RV5,Good,London,London,2021-08-20
+RV5,Good,London,London,2019-07-30
+RV5,Good,London,London,2018-10-23
+RV5,Good,London,London,2020-12-18
+RV5,Good,London,London,2018-10-23
+RV5,Good,London,London,2023-04-08
+RV5,Outstanding,London,London,2016-08-01
+RV9,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2016-10-08
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2016-10-08
+RV9,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2016-10-08
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2016-10-08
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2018-01-02
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2016-10-08
+RV9,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2018-01-02
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2019-05-14
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2018-01-02
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2018-01-02
+RV9,Good,Yorkshire and The Humber,North East and Yorkshire,2018-01-02
+RW1,Requires improvement,South East,South East,2023-04-21
+RW1,Good,South East,South East,2022-10-02
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Good,South East,South East,2018-03-10
+RW1,Requires improvement,South East,South East,2022-10-02
+RW1,Outstanding,South East,South East,2018-03-10
+RW1,Requires improvement,South East,South East,2022-10-02
+RW1,Requires improvement,South East,South East,2022-10-02
+RW1,Requires improvement,South East,South East,2022-10-02
+RW1,Good,South East,South East,2022-10-02
+RW4,Requires improvement,North West,North West,2023-04-14
+RW4,Good,North West,North West,2019-05-04
+RW4,Good,North West,North West,2023-04-14
+RW4,Good,North West,North West,2023-04-14
+RW4,Requires improvement,North West,North West,2019-05-04
+RW4,Good,North West,North West,2019-05-04
+RW4,Good,North West,North West,2015-10-14
+RW4,Requires improvement,North West,North West,2019-05-04
+RW4,Good,North West,North West,2015-10-14
+RW4,Good,North West,North West,2023-04-14
+RW4,Good,North West,North West,2023-04-14
+RW4,Good,North West,North West,2019-05-04
+RW4,Good,North West,North West,2015-10-14
+RW4,Good,North West,North West,2023-04-14
+RW4,Good,North West,North West,2017-06-27
+RW4,Good,North West,North West,2019-05-04
+RW4,Good,North West,North West,2023-04-14
+RW5,Requires improvement,North West,North West,2024-01-31
+RW5,Good,North West,North West,2019-11-09
+RW5,Good,North West,North West,2019-11-09
+RW5,Good,North West,North West,2015-10-29
+RW5,Good,North West,North West,2018-05-23
+RW5,Requires improvement,North West,North West,2017-11-01
+RW5,Good,North West,North West,2017-11-01
+RW5,Good,North West,North West,2017-11-01
+RW5,Requires improvement,North West,North West,2024-01-31
+RW5,Good,North West,North West,2017-11-01
+RW5,Good,North West,North West,2018-05-23
+RW5,Requires improvement,North West,North West,2015-10-29
+RW5,Good,North West,North West,2024-01-31
+RW5,Good,North West,North West,2024-01-31
+RW5,Good,North West,North West,2017-11-01
+RW5,Requires improvement,North West,North West,2021-07-28
+RWE,Requires improvement,East Midlands,Midlands,2022-11-25
+RX2,Requires improvement,South East,South East,2025-06-02
+RX2,Requires improvement,South East,South East,2023-10-27
+RX2,Good,South East,South East,2016-12-23
+RX2,Good,South East,South East,2018-01-23
+RX2,Good,South East,South East,2016-12-23
+RX2,Good,South East,South East,2019-07-06
+RX2,Good,South East,South East,2016-12-23
+RX2,Requires improvement,South East,South East,2019-07-06
+RX2,Good,South East,South East,2019-07-06
+RX2,Good,South East,South East,2018-01-23
+RX2,Good,South East,South East,2019-07-06
+RX2,Good,South East,South East,2016-12-23
+RX3,Good,North East,North East and Yorkshire,2025-06-02
+RX3,Requires improvement,North East,North East and Yorkshire,2023-10-25
+RX3,Good,North East,North East and Yorkshire,2023-10-25
+RX3,Requires improvement,North East,North East and Yorkshire,2023-10-25
+RX3,Good,North East,North East and Yorkshire,2020-03-03
+RX3,Good,North East,North East and Yorkshire,2023-10-25
+RX3,Good,North East,North East and Yorkshire,2020-03-03
+RX3,Requires improvement,North East,North East and Yorkshire,2023-10-25
+RX3,Requires improvement,North East,North East and Yorkshire,2022-09-15
+RX3,Good,North East,North East and Yorkshire,2020-03-03
+RX3,Good,North East,North East and Yorkshire,2023-10-25
+RX3,Requires improvement,North East,North East and Yorkshire,2023-10-25
+RX4,Good,North East,North East and Yorkshire,2018-07-26
+RX4,Good,North East,North East and Yorkshire,2021-01-15
+RX4,Outstanding,North East,North East and Yorkshire,2016-01-09
+RX4,Outstanding,North East,North East and Yorkshire,2016-01-09
+RX4,Outstanding,North East,North East and Yorkshire,2016-01-09
+RX4,Good,North East,North East and Yorkshire,2016-01-09
+RX4,Outstanding,North East,North East and Yorkshire,2018-07-25
+RX4,Good,North East,North East and Yorkshire,2016-01-09
+RX4,Outstanding,North East,North East and Yorkshire,2018-07-26
+RX4,Outstanding,North East,North East and Yorkshire,2018-07-26
+RX4,Good,North East,North East and Yorkshire,2016-01-09
+RX4,Good,North East,North East and Yorkshire,2018-07-26
+RX4,Requires improvement,North East,North East and Yorkshire,2022-04-08
+RXE,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2016-01-19
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2018-06-28
+RXE,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2016-01-19
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2017-12-01
+RXE,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2016-01-19
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2016-01-19
+RXE,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2020-02-21
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2017-12-01
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2018-06-28
+RXE,Good,Yorkshire and The Humber,North East and Yorkshire,2017-11-05
+RXX,Good,South East,South East,2020-01-05
+RXX,Good,South East,South East,2016-07-28
+RXX,Good,South East,South East,2020-01-05
+RXX,Good,South East,South East,2016-07-28
+RXX,Good,South East,South East,2020-01-05
+RXX,Good,South East,South East,2020-01-05
+RXX,Good,South East,South East,2020-01-05
+RXX,Good,South East,South East,2019-12-04
+RXX,Good,South East,South East,2017-07-17
+RXX,Good,South East,South East,2019-12-04
+RXX,Good,South East,South East,2018-04-25
+RY3,Good,East of England,East of England,2014-12-19
+RY3,Good,East of England,East of England,2014-12-19
+RY3,Good,East of England,East of England,2018-06-22
+RY3,Good,East of England,East of England,2018-06-22
+RY3,Good,East of England,East of England,2018-06-22
+RY3,Outstanding,East of England,East of England,2018-06-22
+RY5,Good,East Midlands,Midlands,2014-10-12
+RY5,Outstanding,East Midlands,Midlands,2018-09-27
+RY5,Good,East Midlands,Midlands,2018-09-27
+RY5,Good,East Midlands,Midlands,2018-09-27
+RY5,Good,East Midlands,Midlands,2018-09-27
+RY5,Outstanding,East Midlands,Midlands,2018-09-27
+RYG,Good,West Midlands,Midlands,2025-02-27
+RYG,Requires improvement,West Midlands,Midlands,2024-02-29
+RYG,Good,West Midlands,Midlands,2017-08-11
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Requires improvement,West Midlands,Midlands,2018-12-21
+RYG,Good,West Midlands,Midlands,2016-12-07
+RYG,Requires improvement,West Midlands,Midlands,2024-02-29
+RYG,Good,West Midlands,Midlands,2017-08-11
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Requires improvement,West Midlands,Midlands,2024-02-29
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Good,West Midlands,Midlands,2019-12-17
+RYG,Good,West Midlands,Midlands,2018-12-21
+RYG,Good,West Midlands,Midlands,2017-08-11
+RYW,Good,West Midlands,Midlands,2020-05-27
+RYW,Good,West Midlands,Midlands,2018-10-15
+RYW,Good,West Midlands,Midlands,2020-05-27
+RYW,Good,West Midlands,Midlands,2023-07-28
+RYW,Good,West Midlands,Midlands,2020-05-27
+RYW,Good,West Midlands,Midlands,2014-09-30
+RYW,Good,West Midlands,Midlands,2014-09-30
+RYW,Requires improvement,West Midlands,Midlands,2020-05-27
+TAF,Good,London,London,2023-01-27
+TAF,Good,London,London,2018-06-03
+TAF,Good,London,London,2020-01-28
+TAF,Outstanding,London,London,2018-06-03
+TAF,Good,London,London,2020-01-28
+TAF,Good,London,London,2020-01-28
+TAF,Good,London,London,2020-01-28
+TAF,Outstanding,London,London,2018-06-03
+TAF,Good,London,London,2018-06-03
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2022-02-16
+TAH,Good,Yorkshire and The Humber,North East and Yorkshire,2017-03-30
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-04-30
+TAH,Outstanding,Yorkshire and The Humber,North East and Yorkshire,2018-05-10
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2020-04-30
+TAH,Good,Yorkshire and The Humber,North East and Yorkshire,2018-05-10
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2021-08-19
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2021-08-19
+TAH,Good,Yorkshire and The Humber,North East and Yorkshire,2017-03-30
+TAH,Requires improvement,Yorkshire and The Humber,North East and Yorkshire,2021-08-19
+TAH,Inadequate,Yorkshire and The Humber,North East and Yorkshire,2021-07-15
